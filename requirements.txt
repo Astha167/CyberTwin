@@ -1,0 +1,4 @@
+# Exact dependency versions will be locked when Phase 1 begins.
+# Django 5.2 is the selected supported LTS baseline for the MVP.
+Django>=5.2,<5.3
+
